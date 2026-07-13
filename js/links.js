@@ -43,7 +43,7 @@ const links = [
     },
     
     {
-        name: "osu!",
+        name: "OSU!",
         url: "https://osu.ppy.sh/users/39456006",
         image: "images/links/osu.png",
         glow: "linear-gradient(135deg, #FF66AA, #FF8DC2)"
