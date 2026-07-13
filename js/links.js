@@ -41,7 +41,14 @@ const links = [
         image: "images/links/roblox.png",
         glow: "linear-gradient(135deg, rgba(255,255,255,0.72), rgba(255,255,255,0.24))"
     },
-
+    
+    {
+        name: "osu!",
+        url: "https://osu.ppy.sh/users/39456006",
+        image: "images/links/osu.png",
+        glow: "linear-gradient(135deg, #FF66AA, #FF8DC2)"
+    },
+    
     {
         name: "Spotify",
         url: "https://open.spotify.com/user/31n2tczlqnd53hhrmuz33wk274si?si=eFPtj0zaQaS4rmvMtX561Q&utm_source=copy-link",
